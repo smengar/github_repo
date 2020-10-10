@@ -1,2 +1,2 @@
 # github_repo
-Test git hub repository
+Test git hub repository for tutorial purpose.
